@@ -1,4 +1,4 @@
-# 2022-REU-PN
+# 2022-MC-REU-PN
 For the summer of 2022 MC REU SUMMER at Penn State. 
 
 # Main Documentaion 
